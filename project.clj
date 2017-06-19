@@ -1,4 +1,4 @@
-(defproject mvxcvi/merkledag-ref "0.1.0-SNAPSHOT"
+(defproject mvxcvi/merkledag-ref "0.2.0-SNAPSHOT"
   :description "Reference tracking for MerkleDAG graphs."
   :url "https://github.com/greglook/merkledag-ref"
   :license {:name "Public Domain"
