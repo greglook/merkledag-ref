@@ -14,7 +14,7 @@ a changing state.
 Library releases are published on Clojars. To use the latest version with
 Leiningen, add the following dependency to your project definition:
 
-[![Clojars Project](http://clojars.org/mvxcvi/baton/latest-version.svg)](http://clojars.org/mvxcvi/baton)
+[![Clojars Project](http://clojars.org/mvxcvi/merkledag-ref/latest-version.svg)](http://clojars.org/mvxcvi/merkledag-ref)
 
 
 ## Usage
