@@ -9,5 +9,5 @@
 
   :dependencies
   [[org.clojure/clojure "1.8.0"]
-   [clojure-future-spec "1.9.0-alpha14"]
+   [clojure-future-spec "1.9.0-beta4"]
    [mvxcvi/multihash "2.0.1"]])
