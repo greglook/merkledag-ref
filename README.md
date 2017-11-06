@@ -1,6 +1,11 @@
 merkledag-ref
 =============
 
+[![CircleCI](https://circleci.com/gh/greglook/merkledag-ref.svg?style=shield&circle-token=1fc0aba01ef82b4a847e7db9bf58e8771c3a0fdb)](https://circleci.com/gh/greglook/merkledag-ref)
+[![codecov](https://codecov.io/gh/greglook/merkledag-ref/branch/develop/graph/badge.svg)](https://codecov.io/gh/greglook/merkledag-ref)
+[![API documentation](https://img.shields.io/badge/doc-API-blue.svg)](https://greglook.github.io/merkledag-ref/api/)
+[![Literate documentation](https://img.shields.io/badge/doc-marginalia-blue.svg)](https://greglook.github.io/merkledag-ref/marginalia/uberdoc.html)
+
 Reference tracking for [MerkleDAG](https://github.com/greglook/merkledag-core)
 graphs.
 
