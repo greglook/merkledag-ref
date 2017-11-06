@@ -27,7 +27,8 @@
   [line]
   (let [[timestamp value ref-name version] (str/split line #"\t")]
     {::ref/name ref-name
-     ::ref/value (multihash/decode value)
+     ::ref/value (when-not (str/blank? value)
+                   (multihash/decode value))
      ::ref/version (Long/parseLong version)
      ::ref/time (Instant/parse timestamp)}))
 
