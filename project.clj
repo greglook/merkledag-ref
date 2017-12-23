@@ -14,8 +14,7 @@
   [[lein-cloverage "1.0.10"]]
 
   :dependencies
-  [[org.clojure/clojure "1.8.0"]
-   [clojure-future-spec "1.9.0-beta4"]
+  [[org.clojure/clojure "1.9.0"]
    [mvxcvi/multihash "2.0.2"]]
 
   :codox
