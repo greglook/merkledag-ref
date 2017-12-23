@@ -1,7 +1,6 @@
 (ns merkledag.ref
   "Mutable references stored with a repository."
   (:require
-    [clojure.future :refer [inst? nat-int?]]
     [clojure.spec.alpha :as s]
     [multihash.core :as multihash])
   (:import

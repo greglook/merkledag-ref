@@ -9,6 +9,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ...
 
+## [0.2.0] - 2017-12-22
+
+### Changed
+- Upgrade to Clojure 1.9.0.
+
 ## [0.1.1] - 2017-11-05
 
 ### Changed
@@ -21,6 +26,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 Initial release as an independent project.
 
-[Unreleased]: https://github.com/greglook/merkledag-ref/compare/0.1.1...HEAD
+[Unreleased]: https://github.com/greglook/merkledag-ref/compare/0.2.0...HEAD
+[0.2.0]: https://github.com/greglook/merkledag-ref/compare/0.1.1...0.2.0
 [0.1.1]: https://github.com/greglook/merkledag-ref/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/greglook/merkledag-ref/tag/0.1.0
